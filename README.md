@@ -5,8 +5,8 @@ Ningaraju (1AT23CS140), Rajath N N (1AT23CS165), Java track
 Open the terminal in the project root directory and execute:
 
 ```
-javac -d out src/model/*.java src/engine/*.java src/Main.java
-java -cp out Main
+javac Main.java
+java Main
 ```
 
 ## Features That Work
